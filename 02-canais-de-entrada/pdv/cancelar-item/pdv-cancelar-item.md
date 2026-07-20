@@ -15,6 +15,7 @@ palavras_chave:
   - cancelar produto do pedido
   - excluir item antes de finalizar
 atualizado_em: 2026-07-20
+video_url: https://atendi.com.br/videos/comoCancelarPedido720p.mp4
 ---
 # Como cancelar item no PDV
 
@@ -90,6 +91,10 @@ Como este tutorial trata do cancelamento de item antes da finalizacao do pedido,
 - [Como realizar uma venda no PDV](../realizar-venda/pdv-realizar-venda.md)
 - [Central de pedidos](../../../03-gestao-de-pedidos/central-de-pedidos/central-pedidos-visao-geral.md)
 - [Areas de producao](../../../07-configuracao/areas-de-producao/areas-producao-configurar.md)
+
+## Video
+
+[Assistir a demonstracao deste procedimento](https://atendi.com.br/videos/comoCancelarPedido720p.mp4)
 
 ## Pendencias de validacao
 
