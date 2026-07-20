@@ -1,7 +1,9 @@
 ---
 id: produto.relatorios.visao-geral
 titulo: Relatorios do Atendi OS
+title: Relatorios do Atendi OS
 descricao: Apresenta a frente de relatorios como camada de leitura gerencial da operacao.
+description: Apresenta a frente de relatorios como camada de leitura gerencial da operacao.
 tipo: visao-geral
 solucao: relatorios
 status: publicado

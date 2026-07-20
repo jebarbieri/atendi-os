@@ -1,7 +1,9 @@
 ---
 id: produto.pdv.realizar-venda
 titulo: Como realizar uma venda no PDV
+title: Como realizar uma venda no PDV
 descricao: Ensina como registrar e finalizar uma venda no PDV do Atendi OS.
+description: Ensina como registrar e finalizar uma venda no PDV do Atendi OS.
 tipo: tutorial
 solucao: pdv
 status: rascunho

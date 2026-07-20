@@ -1,7 +1,9 @@
 ---
 id: produto.configuracao.integracoes
 titulo: Integracoes
+title: Integracoes
 descricao: Apresenta como o Atendi OS pode se conectar a sistemas, dispositivos e fluxos externos quando necessario.
+description: Apresenta como o Atendi OS pode se conectar a sistemas, dispositivos e fluxos externos quando necessario.
 tipo: referencia
 solucao: configuracao
 status: precisa-revisao

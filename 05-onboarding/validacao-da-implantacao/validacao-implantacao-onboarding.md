@@ -1,7 +1,9 @@
 ---
 id: produto.onboarding.validacao-implantacao
 titulo: Validacao da implantacao
+title: Validacao da implantacao
 descricao: Confirma se a operacao esta pronta para iniciar o uso da plataforma com seguranca.
+description: Confirma se a operacao esta pronta para iniciar o uso da plataforma com seguranca.
 tipo: tutorial
 solucao: onboarding
 status: publicado

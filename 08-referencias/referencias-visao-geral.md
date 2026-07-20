@@ -1,7 +1,9 @@
 ---
 id: produto.referencias.visao-geral
 titulo: Referencias de produto
+title: Referencias de produto
 descricao: Reune documentos complementares e materiais de apoio sobre posicionamento, conceito e enquadramento do produto.
+description: Reune documentos complementares e materiais de apoio sobre posicionamento, conceito e enquadramento do produto.
 tipo: visao-geral
 solucao: referencias
 status: publicado

@@ -1,7 +1,9 @@
 ---
 id: produto.whatsapp.visao-geral
 titulo: WhatsApp como canal de pedidos
+title: WhatsApp como canal de pedidos
 descricao: Apresenta o WhatsApp como canal de entrada para pedidos conectados a operacao.
+description: Apresenta o WhatsApp como canal de entrada para pedidos conectados a operacao.
 tipo: visao-geral
 solucao: whatsapp
 status: precisa-revisao

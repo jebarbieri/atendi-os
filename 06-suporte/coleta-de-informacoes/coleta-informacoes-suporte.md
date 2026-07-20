@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.coleta-informacoes
 titulo: Coleta de informacoes para suporte
+title: Coleta de informacoes para suporte
 descricao: Orienta quais informacoes devem ser reunidas antes de aprofundar um atendimento.
+description: Orienta quais informacoes devem ser reunidas antes de aprofundar um atendimento.
 tipo: tutorial
 solucao: suporte
 status: precisa-revisao

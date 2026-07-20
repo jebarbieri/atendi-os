@@ -1,7 +1,9 @@
 ---
 id: produto.pdv.cancelar-item
 titulo: Como cancelar item no PDV
+title: Como cancelar item no PDV
 descricao: Ensina como cancelar um item de um pedido no PDV antes da finalizacao.
+description: Ensina como cancelar um item de um pedido no PDV antes da finalizacao.
 tipo: tutorial
 solucao: pdv
 status: rascunho

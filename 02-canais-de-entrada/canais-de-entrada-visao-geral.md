@@ -1,7 +1,9 @@
 ---
 id: produto.canais-entrada.visao-geral
 titulo: Canais de entrada do Atendi OS
+title: Canais de entrada do Atendi OS
 descricao: Apresenta o papel dos canais de entrada na arquitetura do Atendi OS e os assuntos documentados nesta secao.
+description: Apresenta o papel dos canais de entrada na arquitetura do Atendi OS e os assuntos documentados nesta secao.
 tipo: visao-geral
 solucao: canais-de-entrada
 status: publicado

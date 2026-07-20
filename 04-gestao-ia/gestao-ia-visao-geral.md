@@ -1,7 +1,9 @@
 ---
 id: produto.gestao-ia.visao-geral
 titulo: Gestao + IA do Atendi OS
+title: Gestao + IA do Atendi OS
 descricao: Apresenta a camada responsavel por transformar os dados operacionais em controle, analise e evolucao do negocio.
+description: Apresenta a camada responsavel por transformar os dados operacionais em controle, analise e evolucao do negocio.
 tipo: visao-geral
 solucao: gestao-ia
 status: publicado

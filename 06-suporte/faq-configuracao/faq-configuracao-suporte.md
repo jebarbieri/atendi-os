@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.faq-configuracao
 titulo: FAQ de configuracao
+title: FAQ de configuracao
 descricao: Concentra duvidas recorrentes relacionadas a configuracao inicial e ajustes basicos do ambiente.
+description: Concentra duvidas recorrentes relacionadas a configuracao inicial e ajustes basicos do ambiente.
 tipo: pergunta-frequente
 solucao: suporte
 status: precisa-revisao

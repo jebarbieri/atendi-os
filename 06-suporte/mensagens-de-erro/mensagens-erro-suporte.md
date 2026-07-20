@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.mensagens-erro
 titulo: Mensagens de erro
+title: Mensagens de erro
 descricao: Organiza a leitura inicial das mensagens de erro mais comuns.
+description: Organiza a leitura inicial das mensagens de erro mais comuns.
 tipo: solucao-de-problema
 solucao: suporte
 status: precisa-revisao

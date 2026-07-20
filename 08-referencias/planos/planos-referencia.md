@@ -1,7 +1,9 @@
 ---
 id: produto.referencias.planos
 titulo: Planos do Atendi OS
+title: Planos do Atendi OS
 descricao: Reune a leitura atual sobre como os planos devem refletir o estagio e a complexidade de cada operacao.
+description: Reune a leitura atual sobre como os planos devem refletir o estagio e a complexidade de cada operacao.
 tipo: referencia
 solucao: referencias
 status: precisa-revisao

@@ -1,7 +1,9 @@
 ---
 id: produto.pagamentos.visao-geral
 titulo: Pagamentos na operacao
+title: Pagamentos na operacao
 descricao: Apresenta o papel dos pagamentos no acompanhamento operacional dos pedidos.
+description: Apresenta o papel dos pagamentos no acompanhamento operacional dos pedidos.
 tipo: visao-geral
 solucao: pagamentos
 status: precisa-revisao

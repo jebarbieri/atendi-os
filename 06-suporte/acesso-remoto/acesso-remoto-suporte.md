@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.acesso-remoto
 titulo: Acesso remoto para suporte
+title: Acesso remoto para suporte
 descricao: Orienta como preparar e compartilhar o acesso remoto quando a equipe da Atendi precisar atuar no computador da operacao.
+description: Orienta como preparar e compartilhar o acesso remoto quando a equipe da Atendi precisar atuar no computador da operacao.
 tipo: tutorial
 solucao: suporte
 status: precisa-revisao

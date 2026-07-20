@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.boas-praticas
 titulo: Boas praticas de suporte
+title: Boas praticas de suporte
 descricao: Reune orientacoes que ajudam a tornar o atendimento mais claro e eficiente.
+description: Reune orientacoes que ajudam a tornar o atendimento mais claro e eficiente.
 tipo: referencia
 solucao: suporte
 status: precisa-revisao

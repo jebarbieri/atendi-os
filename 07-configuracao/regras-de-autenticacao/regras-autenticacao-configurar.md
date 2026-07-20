@@ -1,7 +1,9 @@
 ---
 id: produto.configuracao.regras-autenticacao
 titulo: Regras de autenticacao
+title: Regras de autenticacao
 descricao: Define orientacoes basicas de acesso e autenticacao no ambiente.
+description: Define orientacoes basicas de acesso e autenticacao no ambiente.
 tipo: configuracao
 solucao: configuracao
 status: precisa-revisao

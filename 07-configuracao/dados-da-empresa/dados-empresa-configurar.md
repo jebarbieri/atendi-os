@@ -1,7 +1,9 @@
 ---
 id: produto.configuracao.dados-empresa
 titulo: Dados da empresa
+title: Dados da empresa
 descricao: Organiza as informacoes principais da empresa dentro da plataforma.
+description: Organiza as informacoes principais da empresa dentro da plataforma.
 tipo: configuracao
 solucao: configuracao
 status: precisa-revisao

@@ -1,7 +1,9 @@
 ---
 id: produto.crm.visao-geral
 titulo: CRM do Atendi OS
+title: CRM do Atendi OS
 descricao: Apresenta o CRM como frente de relacionamento com clientes.
+description: Apresenta o CRM como frente de relacionamento com clientes.
 tipo: visao-geral
 solucao: crm
 status: precisa-revisao

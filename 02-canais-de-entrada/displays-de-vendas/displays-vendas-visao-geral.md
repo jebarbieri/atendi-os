@@ -1,7 +1,9 @@
 ---
 id: produto.displays-vendas.visao-geral
 titulo: Displays de vendas
+title: Displays de vendas
 descricao: Apresenta os displays de vendas como recurso de apoio comercial para divulgar produtos, campanhas e QR Codes.
+description: Apresenta os displays de vendas como recurso de apoio comercial para divulgar produtos, campanhas e QR Codes.
 tipo: visao-geral
 solucao: displays-de-vendas
 status: precisa-revisao

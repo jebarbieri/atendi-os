@@ -1,7 +1,9 @@
 ---
 id: produto.qr-code-mesa.visao-geral
 titulo: QR Code mesa
+title: QR Code mesa
 descricao: Apresenta o QR Code mesa como canal de autoatendimento para pedidos feitos diretamente da mesa.
+description: Apresenta o QR Code mesa como canal de autoatendimento para pedidos feitos diretamente da mesa.
 tipo: visao-geral
 solucao: qr-code-mesa
 status: publicado

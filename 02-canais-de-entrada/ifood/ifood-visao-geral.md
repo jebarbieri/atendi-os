@@ -1,7 +1,9 @@
 ---
 id: produto.ifood.visao-geral
 titulo: iFood como canal de entrada
+title: iFood como canal de entrada
 descricao: Apresenta o iFood como origem de pedidos encaminhados para a operacao do Atendi OS.
+description: Apresenta o iFood como origem de pedidos encaminhados para a operacao do Atendi OS.
 tipo: visao-geral
 solucao: ifood
 status: precisa-revisao

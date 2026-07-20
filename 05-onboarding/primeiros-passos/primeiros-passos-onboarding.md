@@ -1,7 +1,9 @@
 ---
 id: produto.onboarding.primeiros-passos
 titulo: Primeiros passos no onboarding
+title: Primeiros passos no onboarding
 descricao: Orienta o inicio da jornada de implantacao da loja dentro do Atendi OS.
+description: Orienta o inicio da jornada de implantacao da loja dentro do Atendi OS.
 tipo: tutorial
 solucao: onboarding
 status: publicado

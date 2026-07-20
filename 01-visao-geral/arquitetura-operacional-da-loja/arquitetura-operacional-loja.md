@@ -1,7 +1,9 @@
 ---
 id: produto.visao-geral.arquitetura-operacional
 titulo: Arquitetura operacional da loja
+title: Arquitetura operacional da loja
 descricao: Descreve a leitura arquitetural do Atendi OS sobre canais, operacao, gestao e inteligencia da loja.
+description: Descreve a leitura arquitetural do Atendi OS sobre canais, operacao, gestao e inteligencia da loja.
 tipo: referencia
 solucao: arquitetura-operacional
 status: publicado

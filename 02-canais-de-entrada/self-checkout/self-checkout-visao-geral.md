@@ -1,7 +1,9 @@
 ---
 id: produto.self-checkout.visao-geral
 titulo: Self checkout
+title: Self checkout
 descricao: Apresenta o self checkout como canal em que o cliente registra os produtos e conclui a compra sozinho.
+description: Apresenta o self checkout como canal em que o cliente registra os produtos e conclui a compra sozinho.
 tipo: visao-geral
 solucao: self-checkout
 status: precisa-revisao

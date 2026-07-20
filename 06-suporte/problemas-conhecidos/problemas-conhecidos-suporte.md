@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.problemas-conhecidos
 titulo: Problemas conhecidos
+title: Problemas conhecidos
 descricao: Registra situacoes recorrentes ja identificadas na operacao.
+description: Registra situacoes recorrentes ja identificadas na operacao.
 tipo: solucao-de-problema
 solucao: suporte
 status: precisa-revisao

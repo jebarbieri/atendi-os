@@ -1,7 +1,9 @@
 ---
 id: produto.onboarding.configuracao-inicial
 titulo: Configuracao inicial do ambiente
+title: Configuracao inicial do ambiente
 descricao: Apresenta os primeiros ajustes necessarios para preparar o ambiente da loja.
+description: Apresenta os primeiros ajustes necessarios para preparar o ambiente da loja.
 tipo: tutorial
 solucao: onboarding
 status: publicado

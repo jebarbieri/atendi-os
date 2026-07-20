@@ -1,7 +1,9 @@
 ---
 id: produto.onboarding.coleta-dados-empresa
 titulo: Coleta de dados da empresa
+title: Coleta de dados da empresa
 descricao: Organiza as informacoes iniciais necessarias para iniciar a configuracao da operacao.
+description: Organiza as informacoes iniciais necessarias para iniciar a configuracao da operacao.
 tipo: tutorial
 solucao: onboarding
 status: publicado

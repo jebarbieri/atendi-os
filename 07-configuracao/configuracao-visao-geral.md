@@ -1,7 +1,9 @@
 ---
 id: produto.configuracao.visao-geral
 titulo: Configuracao do Atendi OS
+title: Configuracao do Atendi OS
 descricao: Apresenta os assuntos de cadastro, infraestrutura e preparacao da operacao antes do uso em producao.
+description: Apresenta os assuntos de cadastro, infraestrutura e preparacao da operacao antes do uso em producao.
 tipo: visao-geral
 solucao: configuracao
 status: publicado

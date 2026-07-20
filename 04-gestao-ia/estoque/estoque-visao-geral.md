@@ -1,7 +1,9 @@
 ---
 id: produto.estoque.visao-geral
 titulo: Estoque do Atendi OS
+title: Estoque do Atendi OS
 descricao: Apresenta a frente de estoque como parte do controle gerencial da operacao.
+description: Apresenta a frente de estoque como parte do controle gerencial da operacao.
 tipo: visao-geral
 solucao: estoque
 status: precisa-revisao

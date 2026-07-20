@@ -1,7 +1,9 @@
 ---
 id: produto.visao-geral.atendi-os
 titulo: Visao do Atendi OS
+title: Visao do Atendi OS
 descricao: Apresenta o que e o Atendi OS, para quem ele foi pensado e como a plataforma conecta a operacao da loja.
+description: Apresenta o que e o Atendi OS, para quem ele foi pensado e como a plataforma conecta a operacao da loja.
 tipo: visao-geral
 solucao: atendi-os
 status: publicado

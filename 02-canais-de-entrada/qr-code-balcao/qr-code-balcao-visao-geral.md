@@ -1,7 +1,9 @@
 ---
 id: produto.qr-code-balcao.visao-geral
 titulo: QR Code balcao
+title: QR Code balcao
 descricao: Apresenta o QR Code balcao como canal para pedidos rapidos feitos pelo celular em operacoes de balcao.
+description: Apresenta o QR Code balcao como canal para pedidos rapidos feitos pelo celular em operacoes de balcao.
 tipo: visao-geral
 solucao: qr-code-balcao
 status: publicado

@@ -1,0 +1,142 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Atendi OS",
+  "description": "Documentacao oficial do produto Atendi OS.",
+  "colors": {
+    "primary": "#1F6FEB",
+    "light": "#4C8DFF",
+    "dark": "#1557B0"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Produto",
+        "pages": [
+          "produto-visao-geral"
+        ]
+      },
+      {
+        "group": "01. Visao Geral",
+        "root": "01-visao-geral/visao-geral-da-documentacao/visao-geral-da-documentacao",
+        "pages": [
+          "01-visao-geral/visao-do-atendi-os/atendi-os-visao-geral",
+          "01-visao-geral/arquitetura-operacional-da-loja/arquitetura-operacional-loja",
+          "01-visao-geral/solucoes-oficiais-atendi-os/atendi-os-solucoes-oficiais",
+          "01-visao-geral/faq-produto/faq-produto-atendi-os"
+        ]
+      },
+      {
+        "group": "02. Canais de Entrada",
+        "root": "02-canais-de-entrada/canais-de-entrada-visao-geral",
+        "pages": [
+          {
+            "group": "PDV",
+            "root": "02-canais-de-entrada/pdv/pdv-visao-geral",
+            "pages": [
+              "02-canais-de-entrada/pdv/realizar-venda/pdv-realizar-venda",
+              "02-canais-de-entrada/pdv/cancelar-item/pdv-cancelar-item"
+            ]
+          },
+          "02-canais-de-entrada/loja-online/loja-online-visao-geral",
+          "02-canais-de-entrada/whatsapp/whatsapp-visao-geral",
+          "02-canais-de-entrada/qr-code-mesa/qr-code-mesa-visao-geral",
+          "02-canais-de-entrada/qr-code-balcao/qr-code-balcao-visao-geral",
+          "02-canais-de-entrada/totem/totem-visao-geral",
+          "02-canais-de-entrada/self-checkout/self-checkout-visao-geral",
+          "02-canais-de-entrada/ifood/ifood-visao-geral",
+          "02-canais-de-entrada/displays-de-vendas/displays-vendas-visao-geral"
+        ]
+      },
+      {
+        "group": "03. Gestao de Pedidos",
+        "root": "03-gestao-de-pedidos/gestao-pedidos-visao-geral",
+        "pages": [
+          "03-gestao-de-pedidos/central-de-pedidos/central-pedidos-visao-geral",
+          "03-gestao-de-pedidos/unidades-operacionais/unidades-operacionais-visao-geral",
+          "03-gestao-de-pedidos/pagamentos/pagamentos-visao-geral",
+          "03-gestao-de-pedidos/entregas/entregas-visao-geral",
+          "03-gestao-de-pedidos/displays-operacionais/displays-operacionais-visao-geral"
+        ]
+      },
+      {
+        "group": "04. Gestao + IA",
+        "root": "04-gestao-ia/gestao-ia-visao-geral",
+        "pages": [
+          "04-gestao-ia/fiscal/fiscal-visao-geral",
+          "04-gestao-ia/estoque/estoque-visao-geral",
+          "04-gestao-ia/financeiro/financeiro-visao-geral",
+          "04-gestao-ia/crm/crm-visao-geral",
+          "04-gestao-ia/relatorios/relatorios-visao-geral",
+          "04-gestao-ia/dashboards/dashboards-visao-geral",
+          "04-gestao-ia/ia/ia-visao-geral",
+          "04-gestao-ia/automacoes/automacoes-visao-geral"
+        ]
+      },
+      {
+        "group": "05. Onboarding",
+        "root": "05-onboarding/onboarding-visao-geral",
+        "pages": [
+          "05-onboarding/primeiros-passos/primeiros-passos-onboarding",
+          "05-onboarding/coleta-de-dados-da-empresa/coleta-dados-empresa-onboarding",
+          "05-onboarding/configuracao-inicial/configuracao-inicial-onboarding",
+          "05-onboarding/primeiro-pedido/primeiro-pedido-onboarding",
+          "05-onboarding/checklist-de-implantacao/checklist-implantacao-onboarding",
+          "05-onboarding/validacao-da-implantacao/validacao-implantacao-onboarding"
+        ]
+      },
+      {
+        "group": "06. Suporte",
+        "root": "06-suporte/suporte-visao-geral",
+        "pages": [
+          "06-suporte/como-funciona-o-suporte/como-funciona-suporte",
+          "06-suporte/faq-geral/faq-geral-suporte",
+          "06-suporte/faq-configuracao/faq-configuracao-suporte",
+          "06-suporte/faq-operacao/faq-operacao-suporte",
+          "06-suporte/faq-onboarding/faq-onboarding-suporte",
+          "06-suporte/faq-financeiro/faq-financeiro-suporte",
+          "06-suporte/faq-fiscal/faq-fiscal-suporte",
+          "06-suporte/mensagens-de-erro/mensagens-erro-suporte",
+          "06-suporte/problemas-conhecidos/problemas-conhecidos-suporte",
+          "06-suporte/problemas-de-autenticacao/problemas-autenticacao-suporte",
+          "06-suporte/problemas-de-conexao/problemas-conexao-suporte",
+          "06-suporte/problemas-de-dispositivos/problemas-dispositivos-suporte",
+          "06-suporte/problemas-de-impressao/problemas-impressao-suporte",
+          "06-suporte/acesso-remoto/acesso-remoto-suporte",
+          "06-suporte/coleta-de-informacoes/coleta-informacoes-suporte",
+          "06-suporte/boas-praticas-de-suporte/boas-praticas-suporte",
+          "06-suporte/respostas-predefinidas/respostas-predefinidas-suporte"
+        ]
+      },
+      {
+        "group": "07. Configuracao",
+        "root": "07-configuracao/configuracao-visao-geral",
+        "pages": [
+          "07-configuracao/dados-da-empresa/dados-empresa-configurar",
+          "07-configuracao/produtos-e-categorias/produtos-categorias-configurar",
+          "07-configuracao/clientes/clientes-configurar",
+          "07-configuracao/usuarios-e-permissoes/usuarios-permissoes-configurar",
+          "07-configuracao/formas-de-pagamento/formas-pagamento-configurar",
+          "07-configuracao/dispositivos-conectados/dispositivos-conectados-configurar",
+          "07-configuracao/impressoras/impressoras-configurar",
+          "07-configuracao/areas-de-producao/areas-producao-configurar",
+          "07-configuracao/requisitos-minimos/requisitos-minimos-referencia",
+          "07-configuracao/dispositivos-compativeis/dispositivos-compativeis-referencia",
+          "07-configuracao/estrutura-de-rede/estrutura-rede-configurar",
+          "07-configuracao/regras-de-autenticacao/regras-autenticacao-configurar",
+          "07-configuracao/integracoes/integracoes-referencia"
+        ]
+      },
+      {
+        "group": "08. Referencias",
+        "root": "08-referencias/referencias-visao-geral",
+        "pages": [
+          "08-referencias/loja-da-nova-geracao/loja-nova-geracao-referencia",
+          "08-referencias/plataforma-operacional/plataforma-operacional-referencia",
+          "08-referencias/visao-geral-do-produto/visao-geral-produto-referencia",
+          "08-referencias/planos/planos-referencia"
+        ]
+      }
+    ]
+  }
+}

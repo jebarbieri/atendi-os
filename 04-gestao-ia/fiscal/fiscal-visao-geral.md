@@ -1,7 +1,9 @@
 ---
 id: produto.fiscal.visao-geral
 titulo: Fiscal do Atendi OS
+title: Fiscal do Atendi OS
 descricao: Apresenta a frente fiscal como parte da camada de gestao integrada a operacao.
+description: Apresenta a frente fiscal como parte da camada de gestao integrada a operacao.
 tipo: visao-geral
 solucao: fiscal
 status: precisa-revisao

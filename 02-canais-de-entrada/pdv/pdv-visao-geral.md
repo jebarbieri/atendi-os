@@ -1,7 +1,9 @@
 ---
 id: produto.pdv.visao-geral
 titulo: PDV do Atendi OS
+title: PDV do Atendi OS
 descricao: Apresenta o papel do PDV como canal de entrada para vendas presenciais.
+description: Apresenta o papel do PDV como canal de entrada para vendas presenciais.
 tipo: visao-geral
 solucao: pdv
 status: publicado

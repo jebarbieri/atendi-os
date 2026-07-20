@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.faq-fiscal
 titulo: FAQ fiscal
+title: FAQ fiscal
 descricao: Reune duvidas frequentes relacionadas a frente fiscal da operacao.
+description: Reune duvidas frequentes relacionadas a frente fiscal da operacao.
 tipo: pergunta-frequente
 solucao: suporte
 status: precisa-revisao

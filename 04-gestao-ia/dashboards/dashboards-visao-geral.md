@@ -1,7 +1,9 @@
 ---
 id: produto.dashboards.visao-geral
 titulo: Dashboards do Atendi OS
+title: Dashboards do Atendi OS
 descricao: Apresenta os dashboards como recurso para acompanhar indicadores em tempo real.
+description: Apresenta os dashboards como recurso para acompanhar indicadores em tempo real.
 tipo: visao-geral
 solucao: dashboards
 status: publicado

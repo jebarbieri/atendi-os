@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.faq-geral
 titulo: FAQ geral de suporte
+title: FAQ geral de suporte
 descricao: Reune duvidas recorrentes sobre o uso geral da plataforma.
+description: Reune duvidas recorrentes sobre o uso geral da plataforma.
 tipo: pergunta-frequente
 solucao: suporte
 status: precisa-revisao

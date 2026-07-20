@@ -1,7 +1,9 @@
 ---
 id: produto.central-pedidos.visao-geral
 titulo: Central de pedidos
+title: Central de pedidos
 descricao: Explica o papel da central de pedidos como ponto de controle da operacao.
+description: Explica o papel da central de pedidos como ponto de controle da operacao.
 tipo: visao-geral
 solucao: central-de-pedidos
 status: publicado

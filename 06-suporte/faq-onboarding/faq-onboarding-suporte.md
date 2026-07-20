@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.faq-onboarding
 titulo: FAQ de onboarding
+title: FAQ de onboarding
 descricao: Reune duvidas frequentes das etapas iniciais de implantacao.
+description: Reune duvidas frequentes das etapas iniciais de implantacao.
 tipo: pergunta-frequente
 solucao: suporte
 status: precisa-revisao

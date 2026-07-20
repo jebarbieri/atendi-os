@@ -1,7 +1,9 @@
 ---
 id: produto.configuracao.impressoras
 titulo: Impressoras
+title: Impressoras
 descricao: Prepara as impressoras utilizadas na operacao quando esse recurso fizer parte do fluxo.
+description: Prepara as impressoras utilizadas na operacao quando esse recurso fizer parte do fluxo.
 tipo: configuracao
 solucao: configuracao
 status: precisa-revisao

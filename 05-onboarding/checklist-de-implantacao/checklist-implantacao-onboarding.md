@@ -1,7 +1,9 @@
 ---
 id: produto.onboarding.checklist-implantacao
 titulo: Checklist de implantacao
+title: Checklist de implantacao
 descricao: Consolida os itens minimos que devem ser conferidos antes da entrada em operacao.
+description: Consolida os itens minimos que devem ser conferidos antes da entrada em operacao.
 tipo: tutorial
 solucao: onboarding
 status: publicado

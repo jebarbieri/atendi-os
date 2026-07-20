@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.problemas-autenticacao
 titulo: Problemas de autenticacao
+title: Problemas de autenticacao
 descricao: Organiza a analise inicial de falhas de acesso e autenticacao.
+description: Organiza a analise inicial de falhas de acesso e autenticacao.
 tipo: solucao-de-problema
 solucao: suporte
 status: precisa-revisao

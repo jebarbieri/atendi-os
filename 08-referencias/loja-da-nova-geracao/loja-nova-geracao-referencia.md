@@ -1,7 +1,9 @@
 ---
 id: produto.referencias.loja-nova-geracao
 titulo: Loja da nova geracao
+title: Loja da nova geracao
 descricao: Explica o conceito de loja conectada que orienta o posicionamento do Atendi OS.
+description: Explica o conceito de loja conectada que orienta o posicionamento do Atendi OS.
 tipo: referencia
 solucao: referencias
 status: precisa-revisao

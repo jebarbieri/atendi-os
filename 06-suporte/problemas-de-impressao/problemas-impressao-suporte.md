@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.problemas-impressao
 titulo: Problemas de impressao
+title: Problemas de impressao
 descricao: Orienta a leitura inicial de falhas ligadas a impressao.
+description: Orienta a leitura inicial de falhas ligadas a impressao.
 tipo: solucao-de-problema
 solucao: suporte
 status: precisa-revisao

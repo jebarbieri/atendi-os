@@ -1,7 +1,9 @@
 ---
 id: produto.unidades-operacionais.visao-geral
 titulo: Unidades operacionais
+title: Unidades operacionais
 descricao: Explica como os setores responsaveis pela execucao dos pedidos aparecem na documentacao atual.
+description: Explica como os setores responsaveis pela execucao dos pedidos aparecem na documentacao atual.
 tipo: visao-geral
 solucao: unidades-operacionais
 status: publicado

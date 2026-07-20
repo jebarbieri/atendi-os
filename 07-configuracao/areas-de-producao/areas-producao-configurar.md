@@ -1,7 +1,9 @@
 ---
 id: produto.configuracao.areas-producao
 titulo: Areas de producao
+title: Areas de producao
 descricao: Define como os pedidos serao direcionados para os setores responsaveis pela execucao.
+description: Define como os pedidos serao direcionados para os setores responsaveis pela execucao.
 tipo: configuracao
 solucao: configuracao
 status: precisa-revisao

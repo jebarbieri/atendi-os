@@ -1,7 +1,9 @@
 ---
 id: produto.referencias.visao-geral-produto
 titulo: Visao geral do produto
+title: Visao geral do produto
 descricao: Resume o problema que o Atendi OS resolve e os pilares usados para apresentar a plataforma.
+description: Resume o problema que o Atendi OS resolve e os pilares usados para apresentar a plataforma.
 tipo: referencia
 solucao: referencias
 status: precisa-revisao

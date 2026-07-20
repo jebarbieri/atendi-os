@@ -1,7 +1,9 @@
 ---
 id: produto.totem.visao-geral
 titulo: Totem de autoatendimento
+title: Totem de autoatendimento
 descricao: Apresenta o totem como canal de autoatendimento dentro da loja.
+description: Apresenta o totem como canal de autoatendimento dentro da loja.
 tipo: visao-geral
 solucao: totem
 status: publicado

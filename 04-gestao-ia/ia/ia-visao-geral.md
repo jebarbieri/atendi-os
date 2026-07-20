@@ -1,7 +1,9 @@
 ---
 id: produto.ia.visao-geral
 titulo: IA do Atendi OS
+title: IA do Atendi OS
 descricao: Apresenta a frente de inteligencia artificial aplicada a operacao da loja.
+description: Apresenta a frente de inteligencia artificial aplicada a operacao da loja.
 tipo: visao-geral
 solucao: ia
 status: precisa-revisao

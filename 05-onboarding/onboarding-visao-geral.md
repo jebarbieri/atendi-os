@@ -1,7 +1,9 @@
 ---
 id: produto.onboarding.visao-geral
 titulo: Onboarding do Atendi OS
+title: Onboarding do Atendi OS
 descricao: Apresenta a estrutura inicial de implantacao, configuracao e validacao do ambiente antes do uso em producao.
+description: Apresenta a estrutura inicial de implantacao, configuracao e validacao do ambiente antes do uso em producao.
 tipo: visao-geral
 solucao: onboarding
 status: publicado

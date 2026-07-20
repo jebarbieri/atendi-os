@@ -1,7 +1,9 @@
 ---
 id: produto.financeiro.visao-geral
 titulo: Financeiro do Atendi OS
+title: Financeiro do Atendi OS
 descricao: Apresenta a frente financeira como parte do controle administrativo da loja.
+description: Apresenta a frente financeira como parte do controle administrativo da loja.
 tipo: visao-geral
 solucao: financeiro
 status: precisa-revisao

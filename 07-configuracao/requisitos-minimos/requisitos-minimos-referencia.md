@@ -1,7 +1,9 @@
 ---
 id: produto.configuracao.requisitos-minimos
 titulo: Requisitos minimos
+title: Requisitos minimos
 descricao: Apresenta as condicoes basicas recomendadas para uso da plataforma.
+description: Apresenta as condicoes basicas recomendadas para uso da plataforma.
 tipo: referencia
 solucao: configuracao
 status: precisa-revisao

@@ -1,7 +1,9 @@
 ---
 id: produto.configuracao.usuarios-permissoes
 titulo: Usuarios e permissoes
+title: Usuarios e permissoes
 descricao: Define quem acessa o sistema e quais acoes cada perfil pode executar.
+description: Define quem acessa o sistema e quais acoes cada perfil pode executar.
 tipo: configuracao
 solucao: configuracao
 status: precisa-revisao

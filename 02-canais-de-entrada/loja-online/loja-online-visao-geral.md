@@ -1,7 +1,9 @@
 ---
 id: produto.loja-online.visao-geral
 titulo: Loja online do Atendi OS
+title: Loja online do Atendi OS
 descricao: Apresenta a loja online como canal de venda pela internet conectado a mesma operacao da loja.
+description: Apresenta a loja online como canal de venda pela internet conectado a mesma operacao da loja.
 tipo: visao-geral
 solucao: loja-online
 status: publicado

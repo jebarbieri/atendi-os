@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.visao-geral
 titulo: Suporte do Atendi OS
+title: Suporte do Atendi OS
 descricao: Apresenta os documentos de ajuda, FAQ, diagnostico e atendimento de suporte do Atendi OS.
+description: Apresenta os documentos de ajuda, FAQ, diagnostico e atendimento de suporte do Atendi OS.
 tipo: visao-geral
 solucao: suporte
 status: publicado

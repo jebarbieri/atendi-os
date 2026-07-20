@@ -1,7 +1,9 @@
 ---
 id: produto.referencias.plataforma-operacional
 titulo: Plataforma operacional
+title: Plataforma operacional
 descricao: Explica a categoria estrategica usada pela Atendi para posicionar o produto.
+description: Explica a categoria estrategica usada pela Atendi para posicionar o produto.
 tipo: referencia
 solucao: referencias
 status: precisa-revisao

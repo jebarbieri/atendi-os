@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.faq-operacao
 titulo: FAQ de operacao
+title: FAQ de operacao
 descricao: Reune duvidas frequentes sobre o uso diario da operacao dentro do Atendi OS.
+description: Reune duvidas frequentes sobre o uso diario da operacao dentro do Atendi OS.
 tipo: pergunta-frequente
 solucao: suporte
 status: precisa-revisao

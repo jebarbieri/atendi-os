@@ -1,7 +1,9 @@
 ---
 id: produto.visao-geral.faq-produto
 titulo: FAQ de produto do Atendi OS
+title: FAQ de produto do Atendi OS
 descricao: Reune respostas curtas para perguntas frequentes sobre escopo e posicionamento do Atendi OS.
+description: Reune respostas curtas para perguntas frequentes sobre escopo e posicionamento do Atendi OS.
 tipo: pergunta-frequente
 solucao: atendi-os
 status: precisa-revisao

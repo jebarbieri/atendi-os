@@ -1,7 +1,9 @@
 ---
 id: produto.gestao-pedidos.visao-geral
 titulo: Gestao de pedidos do Atendi OS
+title: Gestao de pedidos do Atendi OS
 descricao: Apresenta a camada que executa a operacao da loja depois que o pedido entra no sistema.
+description: Apresenta a camada que executa a operacao da loja depois que o pedido entra no sistema.
 tipo: visao-geral
 solucao: gestao-de-pedidos
 status: publicado

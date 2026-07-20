@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.problemas-dispositivos
 titulo: Problemas de dispositivos
+title: Problemas de dispositivos
 descricao: Organiza a analise inicial de falhas em dispositivos usados na operacao.
+description: Organiza a analise inicial de falhas em dispositivos usados na operacao.
 tipo: solucao-de-problema
 solucao: suporte
 status: precisa-revisao

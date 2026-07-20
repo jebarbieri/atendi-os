@@ -1,7 +1,9 @@
 ---
 id: produto.configuracao.formas-pagamento
 titulo: Formas de pagamento
+title: Formas de pagamento
 descricao: Prepara as formas de pagamento que serao usadas na operacao.
+description: Prepara as formas de pagamento que serao usadas na operacao.
 tipo: configuracao
 solucao: configuracao
 status: precisa-revisao

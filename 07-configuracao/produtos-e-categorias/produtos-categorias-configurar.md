@@ -1,7 +1,9 @@
 ---
 id: produto.configuracao.produtos-categorias
 titulo: Produtos e categorias
+title: Produtos e categorias
 descricao: Estrutura o catalogo inicial da operacao dentro do Atendi OS.
+description: Estrutura o catalogo inicial da operacao dentro do Atendi OS.
 tipo: configuracao
 solucao: configuracao
 status: precisa-revisao

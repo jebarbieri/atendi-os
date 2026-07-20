@@ -1,7 +1,9 @@
 ---
 id: produto.displays-operacionais.visao-geral
 titulo: Displays operacionais
+title: Displays operacionais
 descricao: Apresenta os displays operacionais como recurso visual de apoio para clientes e equipe.
+description: Apresenta os displays operacionais como recurso visual de apoio para clientes e equipe.
 tipo: visao-geral
 solucao: displays-operacionais
 status: publicado

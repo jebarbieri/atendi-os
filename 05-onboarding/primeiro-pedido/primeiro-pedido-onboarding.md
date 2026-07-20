@@ -1,7 +1,9 @@
 ---
 id: produto.onboarding.primeiro-pedido
 titulo: Primeiro pedido de teste
+title: Primeiro pedido de teste
 descricao: Orienta a validacao do fluxo inicial da operacao por meio de um pedido de teste.
+description: Orienta a validacao do fluxo inicial da operacao por meio de um pedido de teste.
 tipo: tutorial
 solucao: onboarding
 status: publicado

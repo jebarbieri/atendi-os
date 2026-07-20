@@ -1,7 +1,9 @@
 ---
 id: produto.entregas.visao-geral
 titulo: Entregas na operacao
+title: Entregas na operacao
 descricao: Apresenta como a documentacao atual trata modalidades de entrega, retirada e consumo.
+description: Apresenta como a documentacao atual trata modalidades de entrega, retirada e consumo.
 tipo: visao-geral
 solucao: entregas
 status: precisa-revisao

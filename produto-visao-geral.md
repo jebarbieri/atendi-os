@@ -1,7 +1,9 @@
 ---
 id: produto.atendi-os.visao-geral
 titulo: Base de conhecimento do produto Atendi OS
+title: Base de conhecimento do produto Atendi OS
 descricao: Apresenta como a documentacao oficial do produto Atendi OS esta organizada dentro deste repositorio.
+description: Apresenta como a documentacao oficial do produto Atendi OS esta organizada dentro deste repositorio.
 tipo: visao-geral
 solucao: produto
 status: publicado

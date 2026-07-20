@@ -1,7 +1,9 @@
 ---
 id: produto.configuracao.clientes
 titulo: Clientes
+title: Clientes
 descricao: Organiza a base inicial de clientes quando a operacao utilizar esse recurso.
+description: Organiza a base inicial de clientes quando a operacao utilizar esse recurso.
 tipo: configuracao
 solucao: configuracao
 status: precisa-revisao

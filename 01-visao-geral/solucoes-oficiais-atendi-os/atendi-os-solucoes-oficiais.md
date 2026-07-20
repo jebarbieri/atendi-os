@@ -1,7 +1,9 @@
 ---
 id: produto.visao-geral.solucoes-oficiais
 titulo: Solucoes oficiais do Atendi OS
+title: Solucoes oficiais do Atendi OS
 descricao: Consolida a leitura oficial das principais solucoes da plataforma e sua organizacao por camada operacional.
+description: Consolida a leitura oficial das principais solucoes da plataforma e sua organizacao por camada operacional.
 tipo: referencia
 solucao: atendi-os
 status: precisa-revisao

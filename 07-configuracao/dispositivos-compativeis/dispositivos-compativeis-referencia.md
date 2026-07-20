@@ -1,7 +1,9 @@
 ---
 id: produto.configuracao.dispositivos-compativeis
 titulo: Dispositivos compativeis
+title: Dispositivos compativeis
 descricao: Orienta a avaliacao dos dispositivos que podem ser utilizados na operacao.
+description: Orienta a avaliacao dos dispositivos que podem ser utilizados na operacao.
 tipo: referencia
 solucao: configuracao
 status: precisa-revisao

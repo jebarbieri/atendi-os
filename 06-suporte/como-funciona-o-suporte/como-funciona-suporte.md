@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.como-funciona
 titulo: Como funciona o suporte
+title: Como funciona o suporte
 descricao: Explica de forma simples como o suporte ao Atendi OS e utilizado no dia a dia.
+description: Explica de forma simples como o suporte ao Atendi OS e utilizado no dia a dia.
 tipo: tutorial
 solucao: suporte
 status: precisa-revisao

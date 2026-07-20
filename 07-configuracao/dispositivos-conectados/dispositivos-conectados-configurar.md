@@ -1,7 +1,9 @@
 ---
 id: produto.configuracao.dispositivos-conectados
 titulo: Dispositivos conectados
+title: Dispositivos conectados
 descricao: Organiza os dispositivos que participam da operacao dentro da plataforma.
+description: Organiza os dispositivos que participam da operacao dentro da plataforma.
 tipo: configuracao
 solucao: configuracao
 status: precisa-revisao

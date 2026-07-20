@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.respostas-predefinidas
 titulo: Respostas predefinidas de suporte
+title: Respostas predefinidas de suporte
 descricao: Organiza respostas-base para situacoes recorrentes de atendimento.
+description: Organiza respostas-base para situacoes recorrentes de atendimento.
 tipo: referencia
 solucao: suporte
 status: precisa-revisao

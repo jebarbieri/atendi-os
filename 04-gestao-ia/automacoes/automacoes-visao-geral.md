@@ -1,7 +1,9 @@
 ---
 id: produto.automacoes.visao-geral
 titulo: Automações do Atendi OS
+title: Automações do Atendi OS
 descricao: Apresenta as automacoes como recurso para reduzir tarefas repetitivas na operacao.
+description: Apresenta as automacoes como recurso para reduzir tarefas repetitivas na operacao.
 tipo: visao-geral
 solucao: automacoes
 status: precisa-revisao

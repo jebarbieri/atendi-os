@@ -1,7 +1,9 @@
 ---
 id: produto.visao-geral.documentacao
 titulo: Visao geral da documentacao de produto
+title: Visao geral da documentacao de produto
 descricao: Explica o papel da secao de visao geral dentro da base oficial do Atendi OS.
+description: Explica o papel da secao de visao geral dentro da base oficial do Atendi OS.
 tipo: visao-geral
 solucao: visao-geral
 status: publicado

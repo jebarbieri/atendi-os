@@ -1,7 +1,9 @@
 ---
 id: produto.configuracao.estrutura-rede
 titulo: Estrutura de rede
+title: Estrutura de rede
 descricao: Apresenta os pontos basicos de rede que impactam o funcionamento da operacao.
+description: Apresenta os pontos basicos de rede que impactam o funcionamento da operacao.
 tipo: configuracao
 solucao: configuracao
 status: precisa-revisao

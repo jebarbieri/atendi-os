@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.problemas-conexao
 titulo: Problemas de conexao
+title: Problemas de conexao
 descricao: Orienta a leitura inicial de problemas relacionados a conectividade.
+description: Orienta a leitura inicial de problemas relacionados a conectividade.
 tipo: solucao-de-problema
 solucao: suporte
 status: precisa-revisao

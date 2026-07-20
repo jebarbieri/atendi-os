@@ -1,7 +1,9 @@
 ---
 id: produto.suporte.faq-financeiro
 titulo: FAQ financeiro
+title: FAQ financeiro
 descricao: Organiza duvidas recorrentes relacionadas aos fluxos financeiros da operacao.
+description: Organiza duvidas recorrentes relacionadas aos fluxos financeiros da operacao.
 tipo: pergunta-frequente
 solucao: suporte
 status: precisa-revisao
