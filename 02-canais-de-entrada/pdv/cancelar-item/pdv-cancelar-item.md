@@ -17,7 +17,7 @@ palavras_chave:
   - cancelar produto do pedido
   - excluir item antes de finalizar
 atualizado_em: 2026-07-20
-video_url: https://atendi.com.br/videos/comoCancelarPedido720p.mp4
+video_url: https://atendi.com.br/atendios/02-canais-de-entrada/pdv/cancelar-item/videos/como-cancelar-item-no-pdv.mp4
 ---
 # Como cancelar item no PDV
 
@@ -53,7 +53,7 @@ Abra o pedido localizado e use a opcao de cancelamento para remover o item desej
 
 Se houver mais de um item no pedido, revise qual item sera cancelado antes de concluir a acao.
 
-![Tela do PDV com a opcao de cancelar item em um pedido](./imagens/01-cancelar-item-pdv.png)
+![Tela do PDV com a opcao de cancelar item em um pedido](https://atendi.com.br/atendios/02-canais-de-entrada/pdv/cancelar-item/imagens/01-cancelar-item-pdv.png)
 
 Na imagem, o PDV mostra um pedido aberto com a acao de cancelamento disponivel. Use essa referencia apenas como apoio visual e confirme no sistema qual item sera removido antes de concluir a acao.
 
@@ -99,7 +99,7 @@ Como este tutorial trata do cancelamento de item antes da finalizacao do pedido,
 <video
   controls
   className="w-full aspect-video rounded-xl"
-  src="https://atendi.com.br/videos/comoCancelarPedido720p.mp4"
+  src="https://atendi.com.br/atendios/02-canais-de-entrada/pdv/cancelar-item/videos/como-cancelar-item-no-pdv.mp4"
 >
   Seu navegador nao suporta reproducao de video embutido.
 </video>
