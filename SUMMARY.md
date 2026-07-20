@@ -9,6 +9,7 @@
 * [02. Canais de Entrada](02-canais-de-entrada/canais-de-entrada-visao-geral.md)
   * [PDV](02-canais-de-entrada/pdv/pdv-visao-geral.md)
     * [Como realizar uma venda no PDV](02-canais-de-entrada/pdv/realizar-venda/pdv-realizar-venda.md)
+    * [Como cancelar item no PDV](02-canais-de-entrada/pdv/cancelar-item/pdv-cancelar-item.md)
   * [Loja Online](02-canais-de-entrada/loja-online/loja-online-visao-geral.md)
   * [WhatsApp](02-canais-de-entrada/whatsapp/whatsapp-visao-geral.md)
   * [QR Code Mesa](02-canais-de-entrada/qr-code-mesa/qr-code-mesa-visao-geral.md)
