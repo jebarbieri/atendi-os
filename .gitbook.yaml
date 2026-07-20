@@ -1,0 +1,5 @@
+root: ./
+
+structure:
+  readme: produto-visao-geral.md
+  summary: SUMMARY.md
