@@ -17,6 +17,7 @@ palavras_chave:
   - cancelar produto do pedido
   - excluir item antes de finalizar
 atualizado_em: 2026-07-20
+pagina_url: https://atendi.com.br/atendios/02-canais-de-entrada/pdv/cancelar-item
 video_url: https://atendi.com.br/atendios/02-canais-de-entrada/pdv/cancelar-item/videos/como-cancelar-item-no-pdv.mp4
 ---
 # Como cancelar item no PDV
