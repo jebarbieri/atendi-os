@@ -94,7 +94,7 @@ Como este tutorial trata do cancelamento de item antes da finalizacao do pedido,
 
 ## Video
 
-[Assistir a demonstracao deste procedimento](https://atendi.com.br/videos/comoCancelarPedido720p.mp4)
+{% embed url="https://atendi.com.br/videos/comoCancelarPedido720p.mp4" %}
 
 ## Pendencias de validacao
 
