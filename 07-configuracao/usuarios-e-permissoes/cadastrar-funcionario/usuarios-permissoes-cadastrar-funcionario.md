@@ -103,6 +103,16 @@ Se um funcionario receber acesso indevido, revise o cadastro e ajuste as marcaco
 - [Usuarios e permissoes](../usuarios-permissoes-configurar.md)
 - [Clientes](../../clientes/clientes-configurar.md)
 
+## Video
+
+<video
+  controls
+  className="w-full aspect-video rounded-xl"
+  src="https://atendi.com.br/atendios/07-configuracao/usuarios-e-permissoes/cadastrar-funcionario/videos/usuarios-permissoes-cadastrar-funcionario.mp4"
+>
+  Seu navegador nao suporta reproducao de video embutido.
+</video>
+
 ## Pendencias de validacao
 
 - Confirmar o nome oficial do modulo usado para acessar a tela de funcionarios.
