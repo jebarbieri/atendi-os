@@ -115,7 +115,13 @@
           "07-configuracao/dados-da-empresa/dados-empresa-configurar",
           "07-configuracao/produtos-e-categorias/produtos-categorias-configurar",
           "07-configuracao/clientes/clientes-configurar",
-          "07-configuracao/usuarios-e-permissoes/usuarios-permissoes-configurar",
+          {
+            "group": "Usuarios e Permissoes",
+            "root": "07-configuracao/usuarios-e-permissoes/usuarios-permissoes-configurar",
+            "pages": [
+              "07-configuracao/usuarios-e-permissoes/cadastrar-funcionario/usuarios-permissoes-cadastrar-funcionario"
+            ]
+          },
           "07-configuracao/formas-de-pagamento/formas-pagamento-configurar",
           "07-configuracao/dispositivos-conectados/dispositivos-conectados-configurar",
           "07-configuracao/impressoras/impressoras-configurar",
