@@ -63,6 +63,7 @@
   * [Produtos e Categorias](07-configuracao/produtos-e-categorias/produtos-categorias-configurar.md)
   * [Clientes](07-configuracao/clientes/clientes-configurar.md)
   * [Usuarios e Permissoes](07-configuracao/usuarios-e-permissoes/usuarios-permissoes-configurar.md)
+    * [Como cadastrar funcionario](07-configuracao/usuarios-e-permissoes/cadastrar-funcionario/usuarios-permissoes-cadastrar-funcionario.md)
   * [Formas de Pagamento](07-configuracao/formas-de-pagamento/formas-pagamento-configurar.md)
   * [Dispositivos Conectados](07-configuracao/dispositivos-conectados/dispositivos-conectados-configurar.md)
   * [Impressoras](07-configuracao/impressoras/impressoras-configurar.md)
