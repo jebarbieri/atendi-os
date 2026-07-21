@@ -17,7 +17,8 @@ palavras_chave:
   - novo cadastro de funcionario
   - criar acesso de funcionario
 atualizado_em: 2026-07-21
-pagina_url: https://atendi.com.br/atendios/07-configuracao/usuarios-e-permissoes/cadastrar-funcionario
+pagina_url: https://atendi.mintlify.site/07-configuracao/usuarios-e-permissoes/cadastrar-funcionario/usuarios-permissoes-cadastrar-funcionario
+video_url: https://atendi.com.br/atendios/07-configuracao/usuarios-e-permissoes/cadastrar-funcionario/videos/usuarios-permissoes-cadastrar-funcionario.mp4
 ---
 # Como cadastrar funcionario
 
