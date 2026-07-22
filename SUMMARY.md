@@ -26,6 +26,7 @@
   * [Displays Operacionais](03-gestao-de-pedidos/displays-operacionais/displays-operacionais-visao-geral.md)
 * [04. Gestao + IA](04-gestao-ia/gestao-ia-visao-geral.md)
   * [Fiscal](04-gestao-ia/fiscal/fiscal-visao-geral.md)
+    * [Como baixar os XMLs das notas fiscais](04-gestao-ia/fiscal/baixar-xml-notas-fiscais/fiscal-baixar-xml-notas-fiscais.md)
   * [Estoque](04-gestao-ia/estoque/estoque-visao-geral.md)
   * [Financeiro](04-gestao-ia/financeiro/financeiro-visao-geral.md)
   * [CRM](04-gestao-ia/crm/crm-visao-geral.md)

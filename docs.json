@@ -64,6 +64,7 @@
         "root": "04-gestao-ia/gestao-ia-visao-geral",
         "pages": [
           "04-gestao-ia/fiscal/fiscal-visao-geral",
+          "04-gestao-ia/fiscal/baixar-xml-notas-fiscais/fiscal-baixar-xml-notas-fiscais",
           "04-gestao-ia/estoque/estoque-visao-geral",
           "04-gestao-ia/financeiro/financeiro-visao-geral",
           "04-gestao-ia/crm/crm-visao-geral",
