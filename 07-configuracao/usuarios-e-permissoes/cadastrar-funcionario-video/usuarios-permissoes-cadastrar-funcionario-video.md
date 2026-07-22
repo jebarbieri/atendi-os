@@ -2,8 +2,8 @@
 id: produto.configuracao.usuarios-permissoes.cadastrar-funcionario-video
 titulo: Como cadastrar funcionario e definir permissoes
 title: Como cadastrar funcionario e definir permissoes
-descricao: Rascunho experimental criado a partir de um video para mostrar como cadastrar um funcionario e definir as permissoes adequadas no Atendi OS.
-description: Rascunho experimental criado a partir de um video para mostrar como cadastrar um funcionario e definir as permissoes adequadas no Atendi OS.
+descricao: Ensina como acessar a tela de funcionarios, iniciar um novo cadastro, definir as permissoes adequadas e salvar o registro no Atendi OS.
+description: Ensina como acessar a tela de funcionarios, iniciar um novo cadastro, definir as permissoes adequadas e salvar o registro no Atendi OS.
 tipo: tutorial
 solucao: configuracao
 status: rascunho
@@ -23,7 +23,7 @@ video_url: https://atendi.com.br/atendios/07-configuracao/usuarios-e-permissoes/
 ---
 # Como cadastrar funcionario e definir permissoes
 
-Este rascunho experimental foi montado a partir do video do processo, sem reaproveitar os prints existentes como base principal.
+Este tutorial explica como acessar a area de funcionarios, abrir um novo cadastro, definir as permissoes de uso e salvar o registro no Atendi OS.
 
 ## Objetivo
 
@@ -43,23 +43,43 @@ Use este procedimento quando uma nova pessoa entrar na operacao ou quando for ne
 
 ### 1. Acessar a tela de funcionarios
 
-No inicio do video, o fluxo parte da tela de funcionarios. Antes de seguir, confirme que voce esta na listagem correta da equipe.
+Na barra superior, acesse o modulo de funcionarios para visualizar a lista atual da equipe.
+
+![Tela de funcionarios com a lista de registros ja cadastrados](https://atendi.com.br/atendios/07-configuracao/usuarios-e-permissoes/cadastrar-funcionario-video/imagens/01-tela-funcionarios.png)
+
+Na imagem, a tela mostra a listagem de funcionarios com colunas como nome, CPF, funcao, telefone e situacao. Confirme que voce esta na tela correta antes de iniciar um novo cadastro.
 
 ### 2. Abrir o menu de acoes
 
-No canto superior direito da tela, o video mostra a abertura do menu de acoes. Esse passo serve para exibir as opcoes disponiveis para gestao de funcionarios.
+No canto superior direito da tela, selecione o icone de acoes para abrir as opcoes disponiveis para gestao de funcionarios.
+
+![Tela de funcionarios com o menu de acoes aberto](https://atendi.com.br/atendios/07-configuracao/usuarios-e-permissoes/cadastrar-funcionario-video/imagens/02-menu-acoes.png)
+
+Na imagem, o sistema exibe o menu com as opcoes disponiveis para gestao de funcionarios. Use esse menu para continuar o fluxo de cadastro.
 
 ### 3. Escolher a opcao para adicionar funcionario
 
 Com o menu aberto, selecione a opcao **Adicionar funcionario** para iniciar um novo cadastro.
 
+![Menu de acoes com a opcao Adicionar funcionario visivel](https://atendi.com.br/atendios/07-configuracao/usuarios-e-permissoes/cadastrar-funcionario-video/imagens/02-menu-acoes.png)
+
+Na imagem, a opcao **Adicionar funcionario** aparece no menu lateral. Selecione essa opcao para abrir o formulario de cadastro.
+
 ### 4. Preencher os dados do cadastro
 
 No formulario exibido, informe os dados do funcionario conforme os campos disponiveis no sistema. Revise as informacoes preenchidas antes de continuar.
 
+![Formulario de cadastro de funcionario aberto](https://atendi.com.br/atendios/07-configuracao/usuarios-e-permissoes/cadastrar-funcionario-video/imagens/03-formulario-funcionario.png)
+
+Na imagem, o formulario apresenta campos como nome, senha, CPF, codigo e telefone. Preencha os dados de identificacao antes de definir as permissoes.
+
 ### 5. Marcar as permissoes adequadas
 
 Ainda no formulario, o video mostra a etapa de escolha das permissoes. Marque apenas os acessos necessarios para a funcao operacional dessa pessoa, evitando liberar modulos ou acoes sem necessidade.
+
+![Formulario de funcionario com permissoes marcadas](https://atendi.com.br/atendios/07-configuracao/usuarios-e-permissoes/cadastrar-funcionario-video/imagens/04-permissoes-marcadas.png)
+
+Na imagem, o cadastro apresenta grupos de permissoes operacionais. Revise com atencao cada marcacao e confirme se os acessos liberados correspondem ao perfil real de trabalho do funcionario.
 
 ### 6. Salvar o cadastro
 
@@ -68,6 +88,10 @@ Depois de revisar os dados e as permissoes, selecione **Salvar** para concluir o
 ## Resultado esperado
 
 Ao final do processo, o novo funcionario deve ficar disponivel na lista da tela de funcionarios, com os acessos definidos conforme as permissoes marcadas no cadastro.
+
+![Tela de funcionarios com o novo cadastro visivel na lista](https://atendi.com.br/atendios/07-configuracao/usuarios-e-permissoes/cadastrar-funcionario-video/imagens/05-funcionario-cadastrado.png)
+
+Na imagem, o novo funcionario ja aparece na listagem da equipe. Esse retorno confirma que o registro foi salvo e passou a ficar disponivel para uso conforme as permissoes definidas.
 
 ## O que acontece na operacao
 
@@ -100,8 +124,6 @@ Se um funcionario receber acesso indevido, reabra o cadastro e ajuste as permiss
 
 ## Pendencias de validacao
 
-- Este rascunho foi escrito usando o video como fonte principal de sequencia do fluxo.
-- A extracao automatica de frames do video nao funcionou neste ambiente por limitacao de decodificacao do arquivo.
 - Confirmar os nomes oficiais dos campos e das permissoes exibidos no formulario.
 - Confirmar o nome oficial do modulo usado para acessar a tela de funcionarios.
 - Validar se existe alguma etapa adicional apos o salvamento do cadastro.
