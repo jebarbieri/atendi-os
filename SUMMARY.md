@@ -64,6 +64,7 @@
   * [Clientes](07-configuracao/clientes/clientes-configurar.md)
   * [Usuarios e Permissoes](07-configuracao/usuarios-e-permissoes/usuarios-permissoes-configurar.md)
     * [Como cadastrar funcionario](07-configuracao/usuarios-e-permissoes/cadastrar-funcionario/usuarios-permissoes-cadastrar-funcionario.md)
+    * [Como cadastrar funcionario e definir permissoes (teste video)](07-configuracao/usuarios-e-permissoes/cadastrar-funcionario-video/usuarios-permissoes-cadastrar-funcionario-video.md)
   * [Formas de Pagamento](07-configuracao/formas-de-pagamento/formas-pagamento-configurar.md)
   * [Dispositivos Conectados](07-configuracao/dispositivos-conectados/dispositivos-conectados-configurar.md)
   * [Impressoras](07-configuracao/impressoras/impressoras-configurar.md)

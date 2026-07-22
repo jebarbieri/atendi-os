@@ -119,7 +119,8 @@
             "group": "Usuarios e Permissoes",
             "root": "07-configuracao/usuarios-e-permissoes/usuarios-permissoes-configurar",
             "pages": [
-              "07-configuracao/usuarios-e-permissoes/cadastrar-funcionario/usuarios-permissoes-cadastrar-funcionario"
+              "07-configuracao/usuarios-e-permissoes/cadastrar-funcionario/usuarios-permissoes-cadastrar-funcionario",
+              "07-configuracao/usuarios-e-permissoes/cadastrar-funcionario-video/usuarios-permissoes-cadastrar-funcionario-video"
             ]
           },
           "07-configuracao/formas-de-pagamento/formas-pagamento-configurar",
