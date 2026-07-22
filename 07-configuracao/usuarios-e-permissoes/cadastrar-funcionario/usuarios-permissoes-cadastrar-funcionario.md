@@ -1,9 +1,9 @@
 ---
 id: produto.configuracao.usuarios-permissoes.cadastrar-funcionario
-titulo: Como cadastrar funcionario
-title: Como cadastrar funcionario
-descricao: Ensina como abrir a tela de funcionarios, iniciar um novo cadastro e salvar o registro no Atendi OS.
-description: Ensina como abrir a tela de funcionarios, iniciar um novo cadastro e salvar o registro no Atendi OS.
+titulo: Como cadastrar funcionario e definir permissoes
+title: Como cadastrar funcionario e definir permissoes
+descricao: Ensina como abrir a tela de funcionarios, iniciar um novo cadastro, marcar as permissoes adequadas e salvar o registro no Atendi OS.
+description: Ensina como abrir a tela de funcionarios, iniciar um novo cadastro, marcar as permissoes adequadas e salvar o registro no Atendi OS.
 tipo: tutorial
 solucao: configuracao
 status: rascunho
@@ -16,21 +16,22 @@ palavras_chave:
   - adicionar funcionario
   - novo cadastro de funcionario
   - criar acesso de funcionario
-atualizado_em: 2026-07-21
-pagina_url: https://atendi.mintlify.site/07-configuracao/usuarios-e-permissoes/cadastrar-funcionario/usuarios-permissoes-cadastrar-funcionario
+  - definir permissoes de funcionario
+atualizado_em: 2026-07-22
+pagina_url: https://os.atendi.com.br/07-configuracao/usuarios-e-permissoes/cadastrar-funcionario/usuarios-permissoes-cadastrar-funcionario
 video_url: https://atendi.com.br/atendios/07-configuracao/usuarios-e-permissoes/cadastrar-funcionario/videos/usuarios-permissoes-cadastrar-funcionario.mp4
 ---
-# Como cadastrar funcionario
+# Como cadastrar funcionario e definir permissoes
 
-Este tutorial explica como acessar a area de funcionarios, abrir um novo cadastro e salvar o registro no Atendi OS.
+Este tutorial explica como acessar a area de funcionarios, abrir um novo cadastro, definir as permissoes de uso e salvar o registro no Atendi OS.
 
 ## Objetivo
 
-Cadastrar um novo funcionario para que ele possa fazer parte da operacao e utilizar os acessos liberados no sistema.
+Cadastrar um novo funcionario e liberar apenas as permissoes necessarias para a rotina dessa pessoa no Atendi OS.
 
 ## Quando utilizar
 
-Use este procedimento quando uma nova pessoa entrar na operacao ou quando for necessario criar um novo acesso para a equipe.
+Use este procedimento quando uma nova pessoa entrar na operacao ou quando for necessario criar um novo acesso com permissoes adequadas para a equipe.
 
 ## Antes de comecar
 
@@ -64,13 +65,13 @@ Com o menu aberto, escolha a opcao **Adicionar funcionario**.
 
 Na imagem, o menu apresenta varias opcoes de gestao e a criacao de cadastro comeca em **Adicionar funcionario**. Selecione essa opcao para abrir o formulario.
 
-### 4. Preencher os dados do funcionario
+### 4. Preencher os dados e marcar as permissoes
 
 No formulario, informe os campos disponiveis e marque apenas as permissoes necessarias para a rotina dessa pessoa.
 
 ![Formulario de cadastro de funcionario com campos e permissoes disponiveis](https://atendi.com.br/atendios/07-configuracao/usuarios-e-permissoes/cadastrar-funcionario/imagens/04-preencher-cadastro.png)
 
-Na imagem, o formulario apresenta campos de identificacao e blocos de permissoes operacionais. Revise com atencao os dados digitados e os modos liberados antes de salvar.
+Na imagem, o formulario apresenta campos de identificacao e blocos de permissoes operacionais. Revise com atencao os dados digitados e confirme se cada permissao marcada corresponde ao perfil real de trabalho do funcionario antes de salvar.
 
 ### 5. Salvar o cadastro
 
@@ -82,11 +83,11 @@ Na imagem, o sistema destaca o botao **Salvar** no canto inferior direito. Use e
 
 ## Resultado esperado
 
-O novo funcionario deve passar a aparecer na lista da tela de funcionarios apos o salvamento.
+O novo funcionario deve passar a aparecer na lista da tela de funcionarios apos o salvamento, com acesso liberado conforme as permissoes marcadas no cadastro.
 
 ## O que acontece na operacao
 
-Depois do cadastro, a operacao passa a ter um novo registro de funcionario disponivel para uso conforme as permissoes liberadas no formulario.
+Depois do cadastro, a operacao passa a ter um novo registro de funcionario disponivel para uso conforme as permissoes liberadas no formulario. Isso ajuda a controlar quais modulos e acoes cada pessoa pode utilizar na rotina.
 
 ## Problemas comuns
 
